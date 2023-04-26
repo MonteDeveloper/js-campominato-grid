@@ -1,0 +1,27 @@
+body{
+    background-color: #7fffd4 !important;
+}
+
+.my-square{
+    display: inline-block;
+    background-color: white;
+    border: 1px solid #7fffd4;
+    width: 100px;
+    height: 100px;
+
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.topbox{
+    height: 10vh;
+}
+
+.bottombox{
+    height: 90vh;
+}
+
+.active{
+    background-color: #1b995e;
+}
